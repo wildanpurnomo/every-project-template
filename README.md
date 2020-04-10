@@ -1,2 +1,2 @@
 # every-project-template
-how I do stuff
+my template on various projects. they are based on my experience, research and ofc preference.
